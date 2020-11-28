@@ -1,0 +1,259 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/audrey.jouan/Desktop/Dossier CV/Document fonts/AdobeFnt22.lst
+FileLength:5276
+FileModTime:628271463
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Book
+FamilyName:Avenir
+StyleName:Book
+MenuName:Avenir Book
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Avenir Book
+WritingScript:Roman
+OutlineFileName:/Users/audrey.jouan/Desktop/Dossier CV/Document fonts/Avenir.ttc
+TTCOffset:72
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1639536
+FileModTime:628271463
+NameArray:0,Mac,18,Avenir Book
+NameArray:0,Mac,4,Avenir Book
+NameArray:0,Win,1,Avenir Book
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Canter-Bold
+FamilyName:Canter
+StyleName:Bold
+MenuName:Canter Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Canter Bold
+WritingScript:Roman
+OutlineFileName:/Users/audrey.jouan/Desktop/Dossier CV/Document fonts/Canter-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:25748
+FileModTime:565001325
+NameArray:0,Mac,4,Canter Bold
+NameArray:0,Win,1,Canter Bold
+NameArray:0,Win,16,Canter
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CenturyGothic
+FamilyName:Century Gothic
+StyleName:Regular
+MenuName:Century Gothic
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Century Gothic
+WritingScript:Roman
+OutlineFileName:/Users/audrey.jouan/Desktop/Dossier CV/Document fonts/Century Gothic
+DataFormat:sfntResource
+ResourceID:12004
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:262993
+FileModTime:297952995
+NameArray:0,Mac,4,Century Gothic
+NameArray:0,Win,1,Century Gothic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FuturaBT-Heavy
+FamilyName:Futura Hv BT
+StyleName:Heavy
+MenuName:Futura Hv BT
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Futura Heavy BT
+WritingScript:Roman
+OutlineFileName:/Users/audrey.jouan/Desktop/Dossier CV/Document fonts/Futura Heavy font.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:38980
+FileModTime:490765252
+NameArray:0,Mac,4,Futura Heavy BT
+NameArray:0,Win,1,Futura Hv BT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica
+FamilyName:Helvetica
+StyleName:Regular
+MenuName:Helvetica
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Helvetica
+WritingScript:Roman
+OutlineFileName:/Users/audrey.jouan/Desktop/Dossier CV/Document fonts/Helvetica.ttc
+TTCOffset:48
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2356684
+FileModTime:628271463
+NameArray:0,Mac,18,Helvetica
+NameArray:0,Mac,4,Helvetica
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/audrey.jouan/Desktop/Dossier CV/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:621849242
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Orkney-Bold
+FamilyName:Orkney
+StyleName:Bold
+MenuName:Orkney
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Orkney Bold
+WritingScript:Roman
+OutlineFileName:/Users/audrey.jouan/Desktop/Dossier CV/Document fonts/Orkney Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:80932
+FileModTime:510653482
+NameArray:0,Mac,4,Orkney Bold
+NameArray:0,Win,1,Orkney
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Orkney-Light
+FamilyName:Orkney
+StyleName:Light
+MenuName:Orkney Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Orkney-Light
+WritingScript:Roman
+OutlineFileName:/Users/audrey.jouan/Desktop/Dossier CV/Document fonts/Orkney Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:82480
+FileModTime:510653494
+NameArray:0,Mac,4,Orkney-Light
+NameArray:0,Win,1,Orkney Light
+NameArray:0,Win,16,Orkney
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Orkney-Italic
+FamilyName:Orkney
+StyleName:Italic
+MenuName:Orkney
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Orkney Regular Italic
+WritingScript:Roman
+OutlineFileName:/Users/audrey.jouan/Desktop/Dossier CV/Document fonts/Orkney Regular Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:101976
+FileModTime:510653490
+NameArray:0,Mac,4,Orkney Regular Italic
+NameArray:0,Win,1,Orkney
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Orkney-Regular
+FamilyName:Orkney
+StyleName:Regular
+MenuName:Orkney
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Orkney-Regular
+WritingScript:Roman
+OutlineFileName:/Users/audrey.jouan/Desktop/Dossier CV/Document fonts/Orkney Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:93048
+FileModTime:510653510
+NameArray:0,Mac,4,Orkney-Regular
+NameArray:0,Win,1,Orkney
+%EndFont
+
